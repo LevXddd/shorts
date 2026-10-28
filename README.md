@@ -1,8 +1,16 @@
-# AI Shorts Pipeline made via Python
+# shorts
 
-First of all, I think we should start with flowchart that will represent the main idea of how does it work:
+A Python pipeline I use to make short C++ tutorial videos for my YouTube Shorts channel.
+It uses AI tools for some of the steps and puts everything together into a finished
+vertical video. The flowchart below shows the whole flow.
 
-<img width="1600" height="710" alt="shorts_pipeline_flowchart" src="https://github.com/user-attachments/assets/62ea8c4a-eaea-4364-b647-9b74bab16dd3" />
+Finished videos can also go to TikTok through a small companion tool,
+[CppShorts Autoposter](https://github.com/LevXddd/cppshorts-site).
 
+## How it works
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 710" width="1600" height="710" font-family="Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata>
+<img width="1600" height="710" alt="shorts pipeline flowchart" src="https://github.com/user-attachments/assets/62ea8c4a-eaea-4364-b647-9b74bab16dd3" />
+
+## Status
+
+Personal project. The code isn't published here yet, only the overall design.
